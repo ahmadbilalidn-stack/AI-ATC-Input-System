@@ -22,5 +22,8 @@ Introducing a new ATC with Input System
 ## Not Working?<br/>
 Make sure:<br/>
 
-You login Puter AI<br/>
-You're  using Tampermonkey (recomended)<br/>
+- You login Puter AI<br/>
+- You're  using Tampermonkey (recomended)<br/>
+
+## Thanks
+Thanks to avramovic for the code
