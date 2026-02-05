@@ -9,4 +9,11 @@ Introducing a new ATC with Input System
 3. Click "New Script" in your manager and paste the contents of the script<br/>
 4. Save the script (make sure you enable the script)<br/>
 5. Open GeoFS and click the headphone logo beside the watch recording flight<br/>
+6. Login Puter AI<br/>
 <br/>
+
+## Features<br/>
+- ATC AI Puter<br/>
+- Request takeoff & landing<br/>
+- METAR Reader, You can ask the weather in your location (beta)<br/>
+- Input System, more accurate language<br/>
