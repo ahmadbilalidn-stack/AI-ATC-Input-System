@@ -17,3 +17,10 @@ Introducing a new ATC with Input System
 - Request takeoff & landing<br/>
 - METAR Reader, You can ask the weather in your location (beta)<br/>
 - Input System, more accurate language<br/>
+
+
+## Not Working?<br/>
+Make sure:<br/>
+
+You login Puter AI<br/>
+You're  using Tampermonkey (recomended)<br/>
