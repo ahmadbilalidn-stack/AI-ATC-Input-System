@@ -18,6 +18,12 @@ Introducing a new ATC with Input System
 - METAR Reader, You can ask the weather in your location (beta)<br/>
 - Input System, more accurate language<br/>
 
+## Tutorial
+1. Press Radio icon
+2. Enter airport ICAO
+3. Press Headphone icon
+4. Talk to the ATC
+
 
 ## Not Working?<br/>
 Make sure:<br/>
@@ -27,3 +33,4 @@ Make sure:<br/>
 
 ## Thanks
 Thanks to avramovic for the code
+
